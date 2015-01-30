@@ -1,0 +1,3 @@
+[submodule "electricity_from_stream"]
+	path = electricity_from_stream
+	url = https://github.com/worlddevelopment/electricity_from_stream.git
